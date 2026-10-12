@@ -1,3 +1,8 @@
+
+#!implement more robust error handelling
+#!implement more robust error handelling
+#!implement more robust error handelling
+#!implement more robust error handelling
 from groq import Groq
 from typing import Optional,List
 from pydantic import BaseModel
